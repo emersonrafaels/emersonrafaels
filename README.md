@@ -1,4 +1,4 @@
-## Olá, eu sou o Emerson Rafael, engenheiro e físico, desenvolvedor de automações e criador de projetos utilizando Machine e Deep Learning!
+## Olá, eu sou o Emerson Rafael, engenheiro e físico, desenvolvedor de automações e projetos utilizando Machine e Deep Learning!
 <div align="center">
   <a href="https://github.com/emersonrafaels">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emersonrafaels&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
