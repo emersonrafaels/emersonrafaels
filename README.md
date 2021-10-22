@@ -19,7 +19,6 @@
   <img align="center" alt="EmeRafaels-Docker" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   <img align="center" alt="EmeRafaels-Pycharm" height="70" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original-wordmark.svg">
   <img align="center" alt="EmeRafaels-SQLServer" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-<img align="right" alt="Emerson-GIF" height="150" style="border-radius:50px;" src="https://i.giphy.com/media/EJzopDUT0LgqdrFC2t/giphy-downsized-large.gif">
 </div>
   
   ##
